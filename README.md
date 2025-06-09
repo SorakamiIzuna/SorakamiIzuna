@@ -17,9 +17,4 @@ I enjoy learning new frameworks, exploring different programming languages, and 
 - **Frontend:** HTML, CSS, React
 - **Databases:** PostgreSQL, Firebase, MongoDB, SQL Server
 
-## 📫 How to reach me
-- Email: hoangtuananh2004.work@gmail.com
-- LinkedIn: [linkedin.com/in/hoangtuananh](https://www.linkedin.com/in/hoangtuananh2004/)
-- Facebook: [facebook.com/htuanahn](https://www.facebook.com/htuanahn)
-
 ⭐️ Feel free to explore my repositories and connect with me!
