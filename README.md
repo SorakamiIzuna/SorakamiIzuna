@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm Hoang Tuan Anh!
 
-<!--
-**SorakamiIzuna/SorakamiIzuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate IT student who loves coding, learning new technologies, and building awesome projects.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
+- **Programming Languages:** JavaScript, Python, C++, Kotlin, C#, Java
+- **Backend:** Node.js, Express
+- **Frontend:** HTML, CSS, React
+- **Databases:** PostgreSQL, Firebase, MongoDB, SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 How to reach me
+- Email: hoangtuananh2004.work@gmail.com
+- LinkedIn: [linkedin.com/in/hoangtuananh](https://www.linkedin.com/in/hoangtuananh2004/)
+- Facebook: [facebook.com/htuanahn](https://www.facebook.com/htuanahn)
+
+---
+
+⭐️ Feel free to explore my repositories and connect with me!
