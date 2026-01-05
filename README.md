@@ -16,6 +16,6 @@ I enjoy learning new frameworks, exploring different programming languages, and 
 - **Backend:** Node.js, Express
 - **Frontend:** HTML, CSS, React
 - **Databases:** PostgreSQL, Firebase, MongoDB, SQL Server
-- **Tools:** Docker Nmap, Metaploit,...
+- **Tools:** Docker, Nmap, Metaploit,...
 
 ⭐️ Feel free to explore my repositories and connect with me!
