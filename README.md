@@ -16,6 +16,6 @@ I enjoy learning new frameworks, exploring different programming languages, and 
 - **Backend:** Node.js, Express, FastAPI
 - **Frontend:** HTML, CSS, React, Gio
 - **Databases:** PostgreSQL, Firebase, MongoDB, SQL Server
-- **Tools:** Docker, Nmap, Metaploit, UV,...
+- **Tools:** Docker, Postman, Nmap, Metaploit, UV, WSL, AWS Cloud Platforms,...
 
 ⭐️ Feel free to explore my repositories and connect with me!
