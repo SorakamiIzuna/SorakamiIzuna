@@ -13,7 +13,7 @@ I enjoy learning new frameworks, exploring different programming languages, and 
 
 ## Skills & Technologies
 - **Programming Languages:** JavaScript, Python, C++, Kotlin, C#, Java, Go
-- **Backend:** Node.js, Express, FastAPI
+- **Backend:** Node.js, Express, FastAPI, .NET
 - **Frontend:** HTML, CSS, React, Gio
 - **Databases:** PostgreSQL, Firebase, MongoDB, SQL Server
 - **Tools:** Docker, Postman, Nmap, Metaploit, UV, WSL, AWS Cloud Platforms,...
